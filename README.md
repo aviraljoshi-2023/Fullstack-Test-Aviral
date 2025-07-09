@@ -7,6 +7,13 @@
 - Node.js v18 or higher
 - npm v9 or higher
 
+## Production Build
+```bash
+cd scripts
+node seeder.js
+```
+
+
 ## Getting Started
 ```bash
 npm install
@@ -19,3 +26,4 @@ npm run dev
 npm run build
 npm start
 ```
+
