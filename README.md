@@ -7,7 +7,7 @@
 - Node.js v18 or higher
 - npm v9 or higher
 
-## Production Build
+## Run Seeders
 ```bash
 cd scripts
 node seeder.js
